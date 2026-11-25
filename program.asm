@@ -1,0 +1,4 @@
+MOV SS ,1 
+MOV SP ,0x10 ; 
+MOV D,10 ; 
+PUSH D ;
